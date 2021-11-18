@@ -18,7 +18,7 @@ export default class App extends Component {
     return (
       <div>
         <FacebookSignIn
-          appId={"564841624086506"}
+          appId={"723459078070837"}
           onReject={this.error}
           onResolve={this.success}
         >
