@@ -26,7 +26,7 @@ export default class App extends Component {
         </FacebookSignIn>
         <GoogleSignIn
           client_id={
-            "142305466831-7jpko2cor6icnbrofditv4kse3s6s136.apps.googleusercontent.com"
+            "218652127520-9vqjdj5ge0npi5nd5cpihqi96ti4k5rc.apps.googleusercontent.com"
           }
           onReject={this.error}
           onResolve={this.success}
